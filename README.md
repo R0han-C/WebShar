@@ -13,8 +13,8 @@ Before getting started, ensure you have the following installed on your system:
 First, clone :
 
 ```bash
-git clone https://github.com/your_username/your_fastapi_project.git
-cd your_fastapi_project
+git clone https://github.com/R0han-C/WebShar
+cd project_directory
 ```
 
 ## Change Secrets
